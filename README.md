@@ -1,5 +1,5 @@
-# 💫 About Me:
-                 Hi there, I'm Priya! 👋
+ # 💫 About Me:
+**                                                 Hi there, I'm Priya! 👋**
 
 🎓 First-year BCA student at Nrupatunga University, India.
 
