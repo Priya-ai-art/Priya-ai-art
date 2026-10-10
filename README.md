@@ -1,5 +1,39 @@
 # 💫 About Me:
-I am a student
+                 Hi there, I'm Priya! 👋
+
+🎓 First-year BCA student at Nrupatunga University, India.
+
+💻 An aspiring builder exploring the world of technology, one line of code at a time.
+
+🧠 Interested in Artificial Intelligence, Cyber security, Machine Learning, problem-solving, and building practical solutions.
+
+🌱 Currently learning and growing in:
+
+- Python 🐍
+- C Programming
+- Data Structures and Algorithms
+- Git & GitHub
+- Web Development
+- SQL and Databases
+- Flask and Backend Development
+
+🔍 A curious learner who enjoys understanding how things work rather than simply memorizing them.
+
+🛠️ My current focus:
+
+- Strengthening my programming fundamentals.
+- Improving my logical thinking and problem-solving skills.
+- Building small projects and gradually moving towards real-world applications.
+- Learning to write clean, readable, and maintainable code.
+- Exploring the intersection of AI, software development, and practical problem-solving.
+
+
+✨ I believe in learning by building, growing through consistency, and staying curious.
+
+📌 This GitHub is my learning journey in public — a place to document my progress, share projects, experiment with ideas, and become a better developer every day.
+
+Still learning. Still building. Always curious. 🚀
+
 
 
 ## 🌐 Socials:
